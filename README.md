@@ -94,3 +94,22 @@ Credits
 Much of this material was adapted from [http://media.heightsobserver.org/media/docs_1334240826.pdf]() - original author unknown. 
 
 
+<!--
+TODO:
+
+http://www.ruraledu.org/articles.php?id=2042
+
+http://www.ruraledu.org/articles.php?id=2043
+
+http://www.therailonline.com/junctions/2011/02/08/the-implications-of-closing-holly-elementary/
+
+
+Info on writing to the board of education
+Info on writing to the board of selectman
+Info on writing to the Ridgefield Press
+
+Like on Facebook? 
+Ridgefield Press
+http://www.acorn-online.com/joomla15/theridgefieldpress/help/contact-the-ridgefield-press/262-the-ridgefield-press/1-jack-sanders.html
+
+-->
