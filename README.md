@@ -3,43 +3,40 @@ Background
 
 The Ridgefield Board of Education is considering closing an elementary school due to a projected decline in K-5 enrollment below 2,000 students by 2014-2015.
 
-The BOE claims this would save $950,000-$1M per year, but many Ridgefield citizens don't think they are considering all of the factors. Specifically, the effect that closing a school could have on property values in the town.
+The BOE claims this would save $950,000-$1M per year, about 1.2% of the $80M annual school operating budget. However, many Ridgefield citizens don't think they are considering all of the factors. Specifically, the effect that closing a school could have on property values in the town.
 
 This website consolidates background info on the BOE's plans and scientific studies of the effects of school closure on property values. Armed with this information, citizens of Ridgefield can better judge whether closing a school is in the best interest of the community.
 
-BOE Materials
+BOE & BOF Materials
 ===
-For background information from the Ridgefield BOE please see here:
+For background information from the Ridgefield Boards of Education and Finance please see here:
 
-1. [Timeline for K-5 Configuration & K-8 Redistricting](http://www.ridgefield.org/file/82769/download)
-2. [Schedule of Meetings](http://www.ridgefield.org/file/82770/download)
-3. [Configuration Options Powerpoint Presentation](http://www.ridgefield.org/file/91251/download)
+1. [Ridgefield Board of Education site](http://www.ridgefield.org/subsite/dist/page/board-education-1441)
+    1. [Timeline for K-5 Configuration & K-8 Redistricting](http://www.ridgefield.org/file/82769/download)
+    1. [Schedule of Meetings](http://www.ridgefield.org/file/82770/download)
+    1. [Configuration Options Powerpoint Presentation](http://www.ridgefield.org/file/91251/download)
+1. [Ridgefield Board of Finance site](http://www.ridgefieldct.org/content/50/114/default.aspx)
+    1. [2011-2012 Budget Summary](http://www.ridgefieldct.org/filestorage/50/114/BOF_2012_Mill_Rate.pdf)
 
-The Impact of Schools on Property Values
+What's Wrong With Closing a School?
 ===
-General Aspects
+
+School Consolidation Does Not Save Money
 ---
-- Academic research has identified school quality, employment accessibility and crime rates
-as important influences on housing prices within cities.
+- The decades following the 1960s saw an increase in the size of American schools and
+classrooms. However, recent research indicates that **large schools do not work for minority and low income students, tend to hurt attendance and student participation, and are not necessarily cost efficient**. Irmsher (1997) summarizes the results of various studies that examined whether large schools have produced greater academic success at a lower cost; the ways in which small schools benefit students, parents, and teachers; and the need for establishing a collective school identity in conjunction with downsizing.
 
-- The quality of the local public school system is a crucial determinant of the demand for
-housing in a neighborhood.
+- Reeves (2004) and Eyre & Finn (2002) recount that between 1990 and 2000, total enrollment in West Virginia decreased 11%, 202 schools were closed, and education spending increased by 16%. **Per pupil expenditures increased more in West
+Virginia than in any other state, but student achievement remained stagnant during this period.
+Transportation and administrative costs rose in spite of the declining numbers of students.**. 
 
-- Regarding property's proximity to schools, a neighborhood school could be viewed as a
-nuisance or a boon to a residential neighborhood.
+- Research by Cutshall (2003) reveals better outcomes for smaller schools or smaller learning communities within schools. **Data from 489 schools indicate that smaller size can be cost effective**. In light of these findings, some states are changing policies that favored consolidation and larger schools
 
-- It would seem intuitive that the closer a property is to a school, the more desirable the
-property would be to families with children served by these schools. The benefits which are
-valued by parents relate either directly or indirectly to accessibility to the school (most
-apparent in terms of the safety of and time spent by children commuting to school). This
-increase in desirability could result in increased value of the property relative to similar
-properties at greater distances to the school.
+School Consolidation Can Harm Academic Achievement
+---
 
-- A neighborhood school may be seen as causing external diseconomies to spill over onto
-surrounding properties. Noise from playgrounds and traffic congestion from parents driving
-children to and from school may depress the value of nearby housing.
 
-Proximity to Schools and Impact on Property Values
+Closing Schools Decreases Property Values
 ---
 - Bogart & Cromwell (2000) showed that school redistricting, including some school
 closures that led to busing of some school children, in Shaker Heights, Ohio in 1987 led to
@@ -58,7 +55,7 @@ significant in terms of property values as school quality is**, with **close pro
 - Duncombe and Yinger (2010) argue that **for the neighborhood that has lost its school,
 property values tend to drop substantially as residents perceive disinvestment in their community**. To some degree, **school consolidation may break parents' valued connections with existing schools and result in higher transportation costs** for parents and students.
 
-- According to the 2008 National Association of REALTORS® Profile of Home Buyers and
+- According to the 2008 National Association of REALTORSÂ® Profile of Home Buyers and
 Sellers, 27% of home buyers listed school quality and **21% listed proximity to schools as deciding factors in their home purchase**.
 
 
@@ -71,7 +68,7 @@ Studies Cited
 
 1. William Dumcombe & John Yinger, 2010, ["What recent research reveals about expected financial savings when small districts merge"](http://www.aasa.org/SchoolAdministratorArticle.aspx?id=13218), The School Administrator May 2010 Number 5, Vol. 67.
 
-1. [2008 National Association of REALTORS® Profile of Home Buyers and Sellers](http://www.google.com/url?sa=t&rct=j&q=2008+National+Association+of+REALTORS%C2%AE+Profile+of+Home+Buyers+and+Sellers&source=web&cd=1&ved=0CFUQFjAA&url=http%3A%2F%2Fwww.slideshare.net%2Fwmleads%2F2008-nar-profile-of-home-buyers-and-sellers&ei=MlC1T_SPDaXJ6gH51cX5Dw&usg=AFQjCNFHivD3ZgH7hfKXBTOIPxPv6Jk1NQ).
+1. [2008 National Association of REALTORSÂ® Profile of Home Buyers and Sellers](http://www.google.com/url?sa=t&rct=j&q=2008+National+Association+of+REALTORS%C2%AE+Profile+of+Home+Buyers+and+Sellers&source=web&cd=1&ved=0CFUQFjAA&url=http%3A%2F%2Fwww.slideshare.net%2Fwmleads%2F2008-nar-profile-of-home-buyers-and-sellers&ei=MlC1T_SPDaXJ6gH51cX5Dw&usg=AFQjCNFHivD3ZgH7hfKXBTOIPxPv6Jk1NQ).
 
 1. Kwarne 0-E, Espey M & L Huiyan, 2007, ["Does close count? School proximity, school
 quality and residential property values"](http://ageconsearch.umn.edu/bitstream/6609/2/39010211.pdf), Journal of Agricultural and Applied Economics, 39 (1).
@@ -89,9 +86,15 @@ Prices"](http://cpr.maxwell.syr.edu/efap/Publications/Impact_of_Consolidation.pd
 
 1. Kathy J. Hayes & Lori L. Taylor, 1996. ["Neighborhood School Characteristics: What Signals Quality to Homebuyers?"](http://www.dallasfed.org/assets/documents/research/er/1996/er9604a.pdf)
 
+2. Karen Irmsher, ["School Size"](http://searcheric.org/digests/ed414615.html), ERIC Digest, Number 113, July 1997
+
+2. Cynthia Reeves, ["A Decade of Consolidation: Where are the Savings?"](http://www.challengewv.org/news/decade_of_consolidation.pdf), January 2004
+
+2. Eric Eyre & Scott Finn, ["Closing Costs: A Summary of an Award Winning Look at School Consolidation in West Virginia, a State Where It Has Been Tried Aggressively"](http://ruraledu.org/docs/arkansas/cc_summ.doc), Rural School & Community Trust, Aug 2002.
+
 Credits
 ===
-Much of this material was adapted from [http://media.heightsobserver.org/media/docs_1334240826.pdf]() - original author unknown. 
+Much of this material was adapted from [here](http://media.heightsobserver.org/media/docs_1334240826.pdf) and [here](http://www.cppsofseattle.org/consolidationresearch.pdf) - original authors unknown. 
 
 
 <!--
@@ -103,6 +106,11 @@ http://www.ruraledu.org/articles.php?id=2043
 
 http://www.therailonline.com/junctions/2011/02/08/the-implications-of-closing-holly-elementary/
 
+** This is very GOOD!
+http://www.cppsofseattle.org/consolidationresearch.pdf
+and this
+http://www.wpaag.org/Consolidation%20Studies.htm
+http://educationnorthwest.org/news/1119
 
 Info on writing to the board of education
 Info on writing to the board of selectman
@@ -111,5 +119,10 @@ Info on writing to the Ridgefield Press
 Like on Facebook? 
 Ridgefield Press
 http://www.acorn-online.com/joomla15/theridgefieldpress/help/contact-the-ridgefield-press/262-the-ridgefield-press/1-jack-sanders.html
+
+At best we save 1% of the budget annually, but the financial analysis has not been sophisticated
+and does not account for the costs of reopening a school in the future when enrollment increases. Need to do NPV analysis over 10, 15, or 20 years. 
+
+
 
 -->
