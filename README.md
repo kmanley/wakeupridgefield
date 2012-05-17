@@ -36,7 +36,7 @@ School Consolidation Can Harm Academic Achievement
 ---
 
 
-Closing Schools Decreases Property Values
+Closing a School Will Decrease Property Values
 ---
 - Bogart & Cromwell (2000) showed that school redistricting, including some school
 closures that led to busing of some school children, in Shaker Heights, Ohio in 1987 led to
@@ -88,13 +88,13 @@ Prices"](http://cpr.maxwell.syr.edu/efap/Publications/Impact_of_Consolidation.pd
 
 2. Karen Irmsher, ["School Size"](http://searcheric.org/digests/ed414615.html), ERIC Digest, Number 113, July 1997
 
-2. Cynthia Reeves, ["A Decade of Consolidation: Where are the Savings?"](http://www.challengewv.org/news/decade_of_consolidation.pdf), January 2004
+2. Cynthia Reeves, ["A Decade of Consolidation: Where are the Savings?"](http://challengewv.org/wp-content/uploads/publications/decade_of_consolidation.pdf), January 2004
 
 2. Eric Eyre & Scott Finn, ["Closing Costs: A Summary of an Award Winning Look at School Consolidation in West Virginia, a State Where It Has Been Tried Aggressively"](http://ruraledu.org/docs/arkansas/cc_summ.doc), Rural School & Community Trust, Aug 2002.
 
 Credits
 ===
-Much of this material was adapted from [here](http://media.heightsobserver.org/media/docs_1334240826.pdf) and [here](http://www.cppsofseattle.org/consolidationresearch.pdf) - original authors unknown. 
+Much of this material was adapted from aggregated data [here](http://media.heightsobserver.org/media/docs_1334240826.pdf) and [here](http://www.cppsofseattle.org/consolidationresearch.pdf). The original authors are unknown but I have validated the content.
 
 
 <!--
