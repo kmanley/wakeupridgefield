@@ -1016,4 +1016,5 @@ footer {
 
 div#disqus_thread li, div#disqus_thread span {
   list-style-type: none !important;
+  list-style-image: none !important;
 }
